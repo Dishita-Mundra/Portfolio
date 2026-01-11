@@ -23,7 +23,7 @@ a:hover {
 
 header {
   background-color: #1e3a8a;
-  color: white;
+  color: red;
   text-align: center;
   padding: 1em 0;
   position: sticky;
@@ -150,4 +150,5 @@ hr {
   border: 1px solid #93c5fd;
   width: 80%;
   margin: 2em auto;
+
 }
